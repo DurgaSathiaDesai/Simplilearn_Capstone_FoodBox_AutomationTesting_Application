@@ -1,0 +1,7 @@
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\loginPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\homePage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\loginPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\common\Base.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\managecuisinesPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\managecuisinesPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\homePageTest.class
