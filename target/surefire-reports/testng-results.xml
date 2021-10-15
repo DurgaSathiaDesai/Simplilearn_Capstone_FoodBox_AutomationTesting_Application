@@ -2,142 +2,142 @@
 <testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-12T20:12:08Z" name="Surefire suite" finished-at="2021-10-12T20:12:33Z" duration-ms="24868">
+  <suite started-at="2021-10-15T06:03:31Z" name="Surefire suite" finished-at="2021-10-15T06:03:53Z" duration-ms="21272">
     <groups>
     </groups>
-    <test started-at="2021-10-12T20:12:08Z" name="Surefire test" finished-at="2021-10-12T20:12:33Z" duration-ms="24868">
+    <test started-at="2021-10-15T06:03:31Z" name="Surefire test" finished-at="2021-10-15T06:03:53Z" duration-ms="21272">
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest">
-        <test-method signature="validateFoodname()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@73a1e9a9]" started-at="2021-10-12T20:12:20Z" name="validateFoodname" finished-at="2021-10-12T20:12:22Z" duration-ms="1770" status="PASS">
+        <test-method signature="validateFoodname()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@6adbc9d]" started-at="2021-10-15T06:03:41Z" name="validateFoodname" finished-at="2021-10-15T06:03:43Z" duration-ms="1665" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFoodname -->
-        <test-method signature="validateFoodprice()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@73a1e9a9]" started-at="2021-10-12T20:12:22Z" name="validateFoodprice" finished-at="2021-10-12T20:12:24Z" duration-ms="1853" status="PASS">
+        <test-method signature="validateFoodprice()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@6adbc9d]" started-at="2021-10-15T06:03:43Z" name="validateFoodprice" finished-at="2021-10-15T06:03:45Z" duration-ms="1529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFoodprice -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest">
-        <test-method signature="addnewCuisine()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@77888435]" started-at="2021-10-12T20:12:19Z" name="addnewCuisine" finished-at="2021-10-12T20:12:20Z" duration-ms="956" status="PASS">
+        <test-method signature="addnewCuisine()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@c8c12ac]" started-at="2021-10-15T06:03:41Z" name="addnewCuisine" finished-at="2021-10-15T06:03:41Z" duration-ms="670" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addnewCuisine -->
-        <test-method signature="addExistingCuisine()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@77888435]" started-at="2021-10-12T20:12:31Z" name="addExistingCuisine" finished-at="2021-10-12T20:12:32Z" duration-ms="803" status="PASS">
+        <test-method signature="addExistingCuisine()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@c8c12ac]" started-at="2021-10-15T06:03:51Z" name="addExistingCuisine" finished-at="2021-10-15T06:03:52Z" duration-ms="764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addExistingCuisine -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@76505305]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@77888435]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.managecuisinesPageTest@c8c12ac]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@14cd1699]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@5c33f1a9]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@73a1e9a9]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@1623b78d]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.newfoodAddPageTest@6adbc9d]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@4802796d]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest@4550bb58]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest@71d44a3]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@223191a6]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@7b98f307]" started-at="2021-10-12T20:12:08Z" name="beforeTest" finished-at="2021-10-12T20:12:08Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@4ec4f3a0]" started-at="2021-10-15T06:03:31Z" name="beforeTest" finished-at="2021-10-15T06:03:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="clickAddToCart()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@76505305]" started-at="2021-10-12T20:12:08Z" name="clickAddToCart" finished-at="2021-10-12T20:12:12Z" duration-ms="3448" status="PASS">
+        <test-method signature="clickAddToCart()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@5c33f1a9]" started-at="2021-10-15T06:03:31Z" name="clickAddToCart" finished-at="2021-10-15T06:03:35Z" duration-ms="3677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickAddToCart -->
-        <test-method signature="clickCuisine()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@76505305]" started-at="2021-10-12T20:12:12Z" name="clickCuisine" finished-at="2021-10-12T20:12:13Z" duration-ms="1072" status="PASS">
+        <test-method signature="clickCuisine()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@5c33f1a9]" started-at="2021-10-15T06:03:35Z" name="clickCuisine" finished-at="2021-10-15T06:03:36Z" duration-ms="687" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickCuisine -->
-        <test-method signature="clickRedirectToCartPage()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@76505305]" started-at="2021-10-12T20:12:13Z" name="clickRedirectToCartPage" finished-at="2021-10-12T20:12:14Z" duration-ms="1648" status="PASS">
+        <test-method signature="clickRedirectToCartPage()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@5c33f1a9]" started-at="2021-10-15T06:03:36Z" name="clickRedirectToCartPage" finished-at="2021-10-15T06:03:37Z" duration-ms="786" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickRedirectToCartPage -->
-        <test-method signature="searchFooditem()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@76505305]" started-at="2021-10-12T20:12:30Z" name="searchFooditem" finished-at="2021-10-12T20:12:31Z" duration-ms="1207" status="PASS">
+        <test-method signature="searchFooditem()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest@5c33f1a9]" started-at="2021-10-15T06:03:50Z" name="searchFooditem" finished-at="2021-10-15T06:03:51Z" duration-ms="951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFooditem -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.foodmenuPageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest">
-        <test-method signature="validateFoodname()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest@71d44a3]" started-at="2021-10-12T20:12:24Z" name="validateFoodname" finished-at="2021-10-12T20:12:25Z" duration-ms="1106" status="PASS">
+        <test-method signature="updatePwdTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest@4550bb58]" started-at="2021-10-15T06:03:45Z" name="updatePwdTest" finished-at="2021-10-15T06:03:46Z" duration-ms="1040" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateFoodname -->
+        </test-method> <!-- updatePwdTest -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.pwdchangePageTest -->
-      <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:05Z" name="initialize" finished-at="2021-10-12T20:12:08Z" duration-ms="3068" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialize -->
-        <test-method signature="clickandvalidateFoodMenuLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:14Z" name="clickandvalidateFoodMenuLink" finished-at="2021-10-12T20:12:15Z" duration-ms="658" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickandvalidateFoodMenuLink -->
-        <test-method signature="clickandvalidateLoginLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:15Z" name="clickandvalidateLoginLink" finished-at="2021-10-12T20:12:16Z" duration-ms="708" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickandvalidateLoginLink -->
-        <test-method signature="clickandvalidateSignupLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:16Z" name="clickandvalidateSignupLink" finished-at="2021-10-12T20:12:16Z" duration-ms="641" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickandvalidateSignupLink -->
-        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@4218d6a3]" started-at="2021-10-12T20:12:33Z" name="TeardownTest" finished-at="2021-10-12T20:12:33Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TeardownTest -->
-      </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest">
-        <test-method signature="registerValidateAddress()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@4802796d]" started-at="2021-10-12T20:12:27Z" name="registerValidateAddress" finished-at="2021-10-12T20:12:28Z" duration-ms="1591" status="PASS">
+        <test-method signature="registerValidateAddress()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@223191a6]" started-at="2021-10-15T06:03:47Z" name="registerValidateAddress" finished-at="2021-10-15T06:03:48Z" duration-ms="1457" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerValidateAddress -->
-        <test-method signature="registerValidateContactNo()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@4802796d]" started-at="2021-10-12T20:12:28Z" name="registerValidateContactNo" finished-at="2021-10-12T20:12:30Z" duration-ms="1685" status="PASS">
+        <test-method signature="registerValidateContactNo()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest@223191a6]" started-at="2021-10-15T06:03:48Z" name="registerValidateContactNo" finished-at="2021-10-15T06:03:50Z" duration-ms="1594" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerValidateContactNo -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.signupPageTest -->
+      <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:29Z" name="initialize" finished-at="2021-10-15T06:03:31Z" duration-ms="2680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="clickandvalidateFoodMenuLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:37Z" name="clickandvalidateFoodMenuLink" finished-at="2021-10-15T06:03:37Z" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickandvalidateFoodMenuLink -->
+        <test-method signature="clickandvalidateLoginLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:37Z" name="clickandvalidateLoginLink" finished-at="2021-10-15T06:03:38Z" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickandvalidateLoginLink -->
+        <test-method signature="clickandvalidateSignupLink()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:38Z" name="clickandvalidateSignupLink" finished-at="2021-10-15T06:03:38Z" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickandvalidateSignupLink -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest@7f0eb4b4]" started-at="2021-10-15T06:03:53Z" name="TeardownTest" finished-at="2021-10-15T06:03:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.homePageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest">
-        <test-method signature="clickCheckout()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@7b98f307]" started-at="2021-10-12T20:12:25Z" name="clickCheckout" finished-at="2021-10-12T20:12:26Z" duration-ms="873" status="PASS">
+        <test-method signature="clickCheckout()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@4ec4f3a0]" started-at="2021-10-15T06:03:46Z" name="clickCheckout" finished-at="2021-10-15T06:03:46Z" duration-ms="730" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickCheckout -->
-        <test-method signature="incQtyandCheck()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@7b98f307]" started-at="2021-10-12T20:12:26Z" name="incQtyandCheck" finished-at="2021-10-12T20:12:27Z" duration-ms="930" status="PASS">
+        <test-method signature="incQtyandCheck()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@4ec4f3a0]" started-at="2021-10-15T06:03:46Z" name="incQtyandCheck" finished-at="2021-10-15T06:03:47Z" duration-ms="737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- incQtyandCheck -->
-        <test-method signature="decrQtyandCheck()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@7b98f307]" started-at="2021-10-12T20:12:32Z" name="decrQtyandCheck" finished-at="2021-10-12T20:12:33Z" duration-ms="1246" status="PASS">
+        <test-method signature="decrQtyandCheck()[pri:1, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest@4ec4f3a0]" started-at="2021-10-15T06:03:52Z" name="decrQtyandCheck" finished-at="2021-10-15T06:03:53Z" duration-ms="852" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- decrQtyandCheck -->
       </class> <!-- com.simplilearn.capstoneproject.FoodBoxATAppln.tests.shoppingcartPageTest -->
       <class name="com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest">
-        <test-method signature="validateAdminLoginWithValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@14cd1699]" started-at="2021-10-12T20:12:16Z" name="validateAdminLoginWithValidCreds" finished-at="2021-10-12T20:12:17Z" duration-ms="881" status="PASS">
+        <test-method signature="validateAdminLoginWithValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@1623b78d]" started-at="2021-10-15T06:03:38Z" name="validateAdminLoginWithValidCreds" finished-at="2021-10-15T06:03:39Z" duration-ms="767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAdminLoginWithValidCreds -->
-        <test-method signature="validateUserLoginWithInValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@14cd1699]" started-at="2021-10-12T20:12:17Z" name="validateUserLoginWithInValidCreds" finished-at="2021-10-12T20:12:18Z" duration-ms="949" status="PASS">
+        <test-method signature="validateUserLoginWithInValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@1623b78d]" started-at="2021-10-15T06:03:39Z" name="validateUserLoginWithInValidCreds" finished-at="2021-10-15T06:03:40Z" duration-ms="802" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUserLoginWithInValidCreds -->
-        <test-method signature="validateUserLoginWithValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@14cd1699]" started-at="2021-10-12T20:12:18Z" name="validateUserLoginWithValidCreds" finished-at="2021-10-12T20:12:19Z" duration-ms="769" status="PASS">
+        <test-method signature="validateUserLoginWithValidCreds()[pri:0, instance:com.simplilearn.capstoneproject.FoodBoxATAppln.tests.loginPageTest@1623b78d]" started-at="2021-10-15T06:03:40Z" name="validateUserLoginWithValidCreds" finished-at="2021-10-15T06:03:41Z" duration-ms="774" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUserLoginWithValidCreds -->

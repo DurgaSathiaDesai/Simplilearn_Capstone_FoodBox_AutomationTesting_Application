@@ -1,7 +1,17 @@
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\signupPage.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\tests\loginPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\shoppingcartPageTest.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\homePage.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\loginPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\newfoodAddPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\foodmenuPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\newfoodAddPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\shoppingcartPage.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\common\Base.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\managecuisinesPage.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\signupPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\pageobjects\pwdchangePage.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\tests\managecuisinesPageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\pwdchangePageTest.class
+com\simplilearn\capstoneproject\FoodBoxATAppln\tests\foodmenuPageTest.class
 com\simplilearn\capstoneproject\FoodBoxATAppln\tests\homePageTest.class

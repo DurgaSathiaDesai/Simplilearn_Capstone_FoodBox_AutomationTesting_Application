@@ -22,7 +22,7 @@ public class pwdchangePageTest
 	}
 
 	@Test
-	public void validateFoodname()
+	public void updatePwdTest()
 	{
 		driver.get("http://localhost:4200/adminDashboard/changepwd");
 
