@@ -37,6 +37,6 @@ public class Base
     @AfterSuite
     // Test cleanup
     public void TeardownTest() {
-       //Base.driver.quit();
+       Base.driver.quit();
     }
 }
